@@ -1,2 +1,2 @@
-# Blod
+# Blog
 Blog Repo
