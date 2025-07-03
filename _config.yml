@@ -1,0 +1,7 @@
+title: Tech & Automation Blog
+author: Michael
+description: A personal blog to share guides, automation tips, and tech tutorials
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
