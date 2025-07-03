@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Michael's Tech Blog"
+title: AzuRefinery Blog"
 ---
 
 Welcome to my technical blog where I share:
